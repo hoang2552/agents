@@ -5,3 +5,19 @@ langgraph/
 .cache/
 AutoGen/data analysis/OAI_CONFIG_LIST
 crewai/stock_analysis.ipynb
+notes/
+experimental/
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/tests
+/e2e
+tests-examples/
+package-lock.json
+package.json
+playwright.config.ts
+playwright.config.js
+
